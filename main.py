@@ -1,1 +1,1 @@
-print("Linie modificată în main")
+print("Linie modificată în feature-2")
